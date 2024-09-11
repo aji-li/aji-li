@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi, I’m aji-li :smiley:</p>
+# <p align="center">👋 I’m aji :smiley:</p>
 - 🎓 I am pursuing a master's degree at CAUC.
 - 📖 I’m currently learning Environmental perception.
 - 📫 How to reach me: lrjzzx@163.com
