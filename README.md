@@ -13,7 +13,7 @@
 
 </div>
 
- :eyes:You are my ![Visitor Count](https://profile-counter.glitch.me/aji-li/count.svg)visitor,welcom!
+
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=aji-li.
 <!---
